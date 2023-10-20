@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  name: MyString
+  item_price: 9.99
+  quantity: 1
+  expiry_date: 2023-10-20
+
+two:
+  user: two
+  name: MyString
+  item_price: 9.99
+  quantity: 1
+  expiry_date: 2023-10-20
